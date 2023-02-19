@@ -10,3 +10,4 @@ stop
 3
 net
 Привет
+good way
